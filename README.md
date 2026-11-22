@@ -2,7 +2,7 @@
 
 ### Your Internship Journey, Organized in One Place!
 
-🌐 **[LIVE DEMO – Visit InternTrack](PASTE_YOUR_VERCEL_URL_HERE)**
+🌐 **[LIVE DEMO – Visit InternTrack](https://intern-track-nine.vercel.app/)**
 
 InternTrack is a web-based internship tracking dashboard designed to help students organize, manage, and monitor their internship applications in one place.
 
